@@ -51,9 +51,9 @@ To deploy the project on **GitHub Pages** or **Vercel**, follow their documentat
 
 ## Screenshots
 ### Login Page:
-![Login Screenshot](attachments/login.png)
+![Login Screenshot](screenshots/login.png)
 
 ### Registration Page:
-![Register Screenshot](attachments/register.png)
+![Register Screenshot](screenshots/register.png)
 
 
